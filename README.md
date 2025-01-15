@@ -1,3 +1,5 @@
+(Resources in master)
+
 A desperate attempt to create a minimalistic environment for showing a specified website
 
 Features added:
